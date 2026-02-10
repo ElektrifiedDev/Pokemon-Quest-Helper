@@ -1,0 +1,189 @@
+{
+    "name" : "Mulligan Stew à la Cube",
+    "description" : "",
+    "tiers" : [
+        {
+            "tier" : "Normal",
+            "duration" : {
+                "basic" : "2",
+                "bronze" : "3",
+                "silver" : "4",
+                "gold" : "5"
+            },
+            "attracted_pokemon" : [
+                {
+                    "name" : "Caterpie",
+                    "chance" : "4.17%"
+                },
+                {
+                    "name" : "Weedle",
+                    "chance" : "4.17%"
+                },
+                {
+                    "name" : "Pidgey",
+                    "chance" : "4.17%"
+                },
+                {
+                    "name" : "Rattata",
+                    "chance" : "4.17%"
+                },
+                {
+                    "name" : "Spearow",
+                    "chance" : "4.17%"
+                },
+                {
+                    "name" : "Sandshrew",
+                    "chance" : "4.17%"
+                },
+                {
+                    "name" : "Nidoran♀",
+                    "chance" : "4.17%"
+                },
+                {
+                    "name" : "Nidoran♂",
+                    "chance" : "4.17%"
+                },
+                {
+                    "name" : "Vulpix",
+                    "chance" : "4.17%"
+                },
+                {
+                    "name" : "Oddish",
+                    "chance" : "4.17%"
+                },
+                {
+                    "name" : "Meowth",
+                    "chance" : "4.17%"
+                },
+                {
+                    "name" : "Psyduck",
+                    "chance" : "4.17%"
+                },
+                {
+                    "name" : "Mankey",
+                    "chance" : "4.17%"
+                },
+                {
+                    "name" : "Growlithe",
+                    "chance" : "4.17%"
+                },
+                {
+                    "name" : "Poliwag",
+                    "chance" : "4.17%"
+                },
+                {
+                    "name" : "Abra",
+                    "chance" : "4.17%"
+                },
+                {
+                    "name" : "Bellsprout",
+                    "chance" : "4.17%"
+                },
+                {
+                    "name" : "Tentacool",
+                    "chance" : "4.17%"
+                },
+                {
+                    "name" : "Geodude",
+                    "chance" : "4.17%"
+                },
+                {
+                    "name" : "Krabby",
+                    "chance" : "4.17%"
+                },
+                {
+                    "name" : "Voltorb",
+                    "chance" : "4.17%"
+                },
+                {
+                    "name" : "Rhydon",
+                    "chance" : "4.17%"
+                },
+                {
+                    "name" : "Goldeen",
+                    "chance" : "4.17%"
+                },
+                {
+                    "name" : "Staryu",
+                    "chance" : "4.17%"
+                }
+            ],
+            "recipes" : [
+                ["Bluk Berry", "Bluk Berry", "Apricorn", "Apricorn", "Apricorn"],
+                ["Tiny Mushroom", "Bluk Berry", "Apricorn", "Apricorn", "Apricorn"],
+                ["Tiny Mushroom", "Tiny Mushroom", "Apricorn", "Apricorn", "Apricorn"],
+                ["Tiny Mushroom", "Bluk Berry", "Bluk Berry", "Apricorn", "Apricorn"],
+                ["Tiny Mushroom", "Tiny Mushroom", "Bluk Berry", "Apricorn", "Apricorn"],
+                ["Tiny Mushroom", "Tiny Mushroom", "Bluk Berry", "Bluk Berry", "Apricorn"],
+                ["Bluk Berry", "Apricorn", "Apricorn", "Apricorn", "Fossil"],
+                ["Tiny Mushroom", "Apricorn", "Apricorn", "Apricorn", "Fossil"],
+                ["Bluk Berry", "Bluk Berry", "Apricorn", "Apricorn", "Fossil"],
+                ["Tiny Mushroom", "Bluk Berry", "Apricorn", "Apricorn", "Fossil"],
+                ["Tiny Mushroom", "Tiny Mushroom", "Apricorn", "Apricorn", "Fossil"],
+                ["Tiny Mushroom", "Bluk Berry", "Bluk Berry", "Apricorn", "Fossil"],
+                ["Tiny Mushroom", "Tiny Mushroom", "Bluk Berry", "Apricorn", "Fossil"],
+                ["Tiny Mushroom", "Tiny Mushroom", "Bluk Berry", "Bluk Berry", "Fossil"],
+                ["Bluk Berry", "Bluk Berry", "Apricorn", "Fossil", "Fossil"],
+                ["Tiny Mushroom", "Bluk Berry", "Apricorn", "Fossil", "Fossil"],
+                ["Tiny Mushroom", "Tiny Mushroom", "Apricorn", "Fossil", "Fossil"],
+                ["Bluk Berry", "Bluk Berry", "Fossil", "Fossil", "Fossil"],
+                ["Tiny Mushroom", "Bluk Berry", "Fossil", "Fossil", "Fossil"],
+                ["Tiny Mushroom", "Tiny Mushroom", "Fossil", "Fossil", "Fossil"]
+            ]
+        },
+        {
+            "tier" : "Good",
+            "duration" : {
+                "basic" : "",
+                "bronze" : "",
+                "silver" : "",
+                "gold" : ""
+            },
+            "attracted_pokemon" : [
+                {
+                    "name" : "",
+                    "chance" : ""
+                }
+            ],
+            "recipes" : [
+                ["", "", "", "", ""]
+            ]
+        },
+        {
+            "tier" : "Very Good",
+            "duration" : {
+                "basic" : "",
+                "bronze" : "",
+                "silver" : "",
+                "gold" : ""
+            },
+            "attracted_pokemon" : [
+                {
+                    "name" : "",
+                    "chance" : ""
+                }
+            ],
+            "recipes" : [
+                ["", "", "", "", ""]
+            ]
+        },
+        {
+            "tier" : "Special",
+            "duration" : {
+                "basic" : "",
+                "bronze" : "",
+                "silver" : "",
+                "gold" : ""
+            },
+            "attracted_pokemon" : [
+                {
+                    "name" : "",
+                    "chance" : ""
+                }
+            ],
+            "recipes" : [
+                ["", "", "", "", ""]
+            ]
+        }
+    ]
+}

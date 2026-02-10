@@ -1,0 +1,78 @@
+{
+    "name" : "",
+    "description" : "",
+    "tiers" : [
+        {
+            "tier" : "Normal",
+            "duration" : {
+                "basic" : "",
+                "bronze" : "",
+                "silver" : "",
+                "gold" : ""
+            },
+            "attracted_pokemon" : [
+                {
+                    "name" : "",
+                    "chance" : ""
+                }
+            ],
+            "recipes" : [
+                ["", "", "", "", ""]
+            ]
+        },
+        {
+            "tier" : "Good",
+            "duration" : {
+                "basic" : "",
+                "bronze" : "",
+                "silver" : "",
+                "gold" : ""
+            },
+            "attracted_pokemon" : [
+                {
+                    "name" : "",
+                    "chance" : ""
+                }
+            ],
+            "recipes" : [
+                ["", "", "", "", ""]
+            ]
+        },
+        {
+            "tier" : "Very Good",
+            "duration" : {
+                "basic" : "",
+                "bronze" : "",
+                "silver" : "",
+                "gold" : ""
+            },
+            "attracted_pokemon" : [
+                {
+                    "name" : "",
+                    "chance" : ""
+                }
+            ],
+            "recipes" : [
+                ["", "", "", "", ""]
+            ]
+        },
+        {
+            "tier" : "Special",
+            "duration" : {
+                "basic" : "",
+                "bronze" : "",
+                "silver" : "",
+                "gold" : ""
+            },
+            "attracted_pokemon" : [
+                {
+                    "name" : "",
+                    "chance" : ""
+                }
+            ],
+            "recipes" : [
+                ["", "", "", "", ""]
+            ]
+        }
+    ]
+}
